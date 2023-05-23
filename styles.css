@@ -4,12 +4,13 @@
                 height: 500px;
                 text-align: center;
             }
-            h1{
+            header{
                 background-color: #011e29;
                 color: white;
                 padding: 20px;
                 margin: 10px;
                 text-align: center;
+                font-size: 30px;
             }
             .box1{
                 background-color: white;
@@ -19,8 +20,7 @@
                 margin-left: 20px;
                 padding: 10px;
                 text-align: center;
-                float: left;
-                margin-left: 200px;
+               
             }
             .box2{
                 background-color: white;
@@ -39,8 +39,7 @@
                 margin-right: 20px;
                 padding: 10px;
                 text-align: center;
-                float: right;
-                margin-right: 380px;
+                
             }
             img{
                 height: 100px;
